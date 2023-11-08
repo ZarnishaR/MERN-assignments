@@ -1,0 +1,91 @@
+Question-1:
+What is a wifeframe?
+A wireframe is a way to design a website service at the structural level. 
+A wireframe is commonly used to layout content and functionality on a page which takes into account user needs and user journeys. 
+Wireframes are used early in the development process to establish the basic structure of a page before visual design and content is added.
+Following are the steps to create a simple wireframe:
+1. Identify the goal of the website.
+2. Understand the user flow.
+3. Determine your website wireframe size.
+4. Begin your website wireframe design.
+5. Determine conversion points. 
+6. Reduce reduntant size.
+7. Get feedback on the wireframe.
+
+
+Question-2:
+What is a markup?
+A markup is a set of rules that defines how the layout and presentatiom of text and images should appear in a digital document. 
+It allows structuring documents, adding formatting and specifying how different elements should be displayed or rendered on webpages.
+This structuring helps search engines understand the information on websites better.
+An example of a markup language is HTML(Hypertext Markup Language).
+Some other Markup languages include:
+XML(Extensible Markup Language).
+SGML(Standard Generalized Markup Language).
+XHTML(Extensible Hypertext Markup Language).
+
+
+Question-3:
+List of the best designed websites of 2023?
+1. Kismet: This Los Angeles-Based restaurant keeps its website simple with just the information a potential customer needs, organized intuitively
+across linked pages.
+
+2. FullyRaw: It ia a lifestyle brand FullyRaw, selling online programs, retreats, a book, live speeking ,coaching and more. The website includes a
+lot of information to accommodate so many facets of the business, but the home page is very well organized to quickly show you what the business has to offer.
+
+3. Industrial Jewelry: London-based modern jewelry designer Hila Rawet Karni shares space with her industrial pieces through a clever home page design. 
+Photos of the designer are layered beneath product images, so you see the artist revealed as you scroll through her jewelry. 
+The site shows what you can do with a simple drag-and-drop editor such as Wix if you’ve got the creativity and expertise of a designer in your arsenal.
+
+4. Girlboss: Girlboss builds community through content and monetizes through an online shop of “Girlboss approved” products from partner retailers and creators. 
+This site, built on Shopify, facilitates the complexity of an online shop while managing to feel community-oriented.
+The design puts content front and center, with graphics that incorporate original and stock photography with modern feminine design to showcase the brand’s personality.
+
+5. Fat Choy: This vegan, “kind of Chinese” restaurant in New York City makes its vibe immediately clear when you land on its home page. 
+It’s a straightforward Squarespace layout, but a custom-illustrated background and the combination of a bold, permanent-marker header font with a stripped-down Courier body font are easy ways to showcase the restaurant’s personality. 
+A well-coordinated gallery of well-designed product images makes the design feel sophisticated—without requiring any coding.
+
+Question-4:
+What is the difference between scripting language and programming language?
+A scripting language is a programming language that doesn’t require a compilation process. 
+For instance, when we run a C program you may have to compile it and then run but when you run JavaScript, there is no need to compile it. 
+So, we can say JavaScript is a form of scripting language. 
+A scripting language supports scripts written exclusively for computer programs. 
+Scripts help maintain a particular run time environment to automate the execution of specific functions.
+Scripting languages are written in one format and translated within another program.
+For example, JavaScript has to be incorporated with HTML and will be further interpreted by internet explorers. 
+So, while programming languages can run independently, scripting languages run within programs. 
+Scripting languages are designed specifically to make coding simpler and faster.
+JavaScript, PHP, Python, Ruby, Rexx, etc., are some of the examples of scripting language. 
+
+A programming language is a formal language that includes a set of commands that delivers specific results when fed into a system.
+Programming languages are assembled into a more compact design. They don’t need to be translated by any other application or language.
+Programming languages are used for full-fledged coding and software development. 
+C++, C#, Java, Basic, Pascal, and COBOL are a few examples of programming languages.
+
+
+Question-5:
+What is ECMAScript? And it's latest version?
+ECMAScript is a scripting-language specification that was developed by ECMA International in order to create a standardized JavaScript implementation across all web browsers.
+It is widely used for client-side scripting in web browsers, and it is also used for server-side scripting with node.js. ECMAScript is the successor to JavaScript,
+and it is backward-compatible with most JavaScript code.
+One important difference between the two languages is that ECMAScript is more strictly defined than JavaScript. 
+This means that ECMAScript code is more likely to run the same across different browsers, whereas JavaScript code may behave differently in different browsers.
+Another difference is that ECMAScript has additional features that are not present in JavaScript, such as support for class-based programming.
+It has many features that make it attractive to web developers, including:
+Support for object-oriented programming.
+Support for event-driven programming.
+A rich set of built-in objects.
+A standard library of functions.
+Support for regular expressions.
+Support for error handling.
+
+ECMAScript 2021 (ES12) is the latest version of the specification which that is widely adopted by all modern web browsers.
+
+
+
+
+
+
+
+
