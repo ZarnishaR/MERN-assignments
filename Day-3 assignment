@@ -1,0 +1,92 @@
+Question-1:
+What is a URL?
+A URL is a type of uniform resource identifier and is address of a resource on the World Wide Web and the protocol used to access it. 
+It is used to indicate the location of a web resource to access the web pages.
+The URL sends users to a specific resource online such as video, webpage, or other resources. 
+When you search any query on Google, it will display the multiple URLs of the resource that are all related to your search query.
+The displayed URLs are the hyperlink to access the webpages.
+A URL (Uniform Resource Locator) contains the information, which is as follows:
+The port number on the server, which is optional.
+It contains a protocol that is used to access the resource.
+The location of the server
+A fragment identifier
+In the directory structure of the server, it contains the location of the resource.
+
+Question-2:
+What are the doctypes of different html versions?
+1. HTML5 doctype:This is the most latest version of the document type currently used.
+It has no disadvantages and is easier to implement and recall. 
+It will correctly validate all HTML 5 features, as well as most HTML 4/XHTML 1.0 features.
+Syntax:<!DOCTYPE html>
+
+2. Strict doctype (HTML 4.01): The HTML 4.01 strict doctype validates the written code against the HTML 4.01 spec. 
+However, it doesn’t allow any deprecated elements or presentational markups such as <font> elements, or framesets to be used.
+It validates loose HTML style markup, for example, minimized attributes and non-quoted attributes (eg required, rather than required=”required”).
+Syntax:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+
+3. Transitional doctype (HTML 4.01): The HTML 4.01 transitional doctype also validates the written code against the HTML 4.01 spec, the same as the strict doctype.  
+It does allow some presentational markup and deprecated elements (such as <font> elements) but not framesets. 
+Just like strict doctype, it also validates loose HTML style markup.
+Syntax:
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+
+4. Strict and Transitional doctypes (XML 1.0): These are the exact XHTML 1.0 coequals of the HTML 4.01 doctypes we talked about 
+above, so functionally they are the same, except that they won’t validate loose HTML style markup: it all has to be well-formed XML.
+Syntax:
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+5. Frameset doctypes (HTML 4.01 and XML 1.0): They are functionally the same as HTML 4.01 transitional and XHTML 1.0 transitional independently, but they allow the use of framesets. 
+Syntax:
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN"
+"http://www.w3.org/TR/html4/frameset.dtd">
+
+Question-3:
+What is the difference between HTTP and HTTPS?
+HTTP
+HTTP stands for HyperText Transfer Protocol.
+HyperText is the type of text which is specially coded with the help of some standard coding language called HyperText Markup Language (HTML). 
+HTTP provides a standard between a web browser and a web server to establish communication. It is a set of rules for transferring data from one computer to another.
+Data such as text, images, and other multimedia files are shared on the World Wide Web. Whenever a web user opens their web browser, the user indirectly uses HTTP.
+
+HTTPS
+HTTPS stands for Hyper Text Transfer Protocol Secure. HTTP Secure (HTTPS), could be a combination of the Hypertext Transfer Protocol with the SSL/TLS convention to supply encrypted communication and secure distinguishing proof of an arranged web server.
+HTTPS is more secure than HTTP because HTTPS is certified by the SSL(Secure Socket Layer).
+Whatever website you are visiting on the internet, if its URL is HTTP, then that website is not secure.
+It is an application protocol that is used for distributed, collaborative, hypermedia information systems. 
+
+Question-4:
+What is DOM?
+The Document Object Model (DOM) is a programming interface for HTML(HyperText Markup Language) and XML(Extensible markup language) documents. 
+It defines the logical structure of documents and the way a document is accessed and manipulated.
+DOM is a way to represent the webpage in a structured hierarchical way so that it will become easier for programmers and users to glide through the document.
+With DOM, we can easily access and manipulate tags, IDs, classes, Attributes, or Elements of HTML using commands or methods provided by the Document object. 
+Using DOM, the JavaScript gets access to HTML as well as CSS of the web page and can also add behavior to the HTML elements. 
+so basically Document Object Model is an API that represents and interacts with HTML or XML documents.
+HTML is used to structure the web pages and Javascript is used to add behavior to our web pages. 
+When an HTML file is loaded into the browser, the javascript can not understand the HTML document directly. 
+So, a corresponding document is created(DOM). DOM is basically the representation of the same HTML document but in a different format with the use of objects. 
+Javascript interprets DOM easily i.e javascript can not understand the tags(<h1>H</h1>) in HTML document but can understand object h1 in DOM.
+Now, Javascript can access each of the objects (h1, p, etc) by using different functions.
+
+Question-5:
+What are meta tags?
+Meta tags are HTML tags used to provide additional information about a web page to search engines and other clients.
+They are snippets of text that describe a page's content⁴; however, they don't appear on the page itself, but only in the page's source code. 
+Meta tags are typically used to specify character set, page description, keywords, author of the document, and viewport settings. 
+They are always placed inside the `<head>` element of the HTML document. 
+While they are not displayed on the page and are only visible in the HTML code, they are machine parsable¹. This means they can be read by web browsers,
+which use them to determine how to display content, and by search engines, which use them to understand the content of the page and how it should be indexed.
+
+question-6?
+What is W3C?
+The W3C (World Wide Web Consortium) is an international organization that creates standards for the World Wide Web. 
+The WC3 is committed to improving the web by setting and promoting web-based standards.
+The W3C's goal is to create technical standards and guidelines for web technologies worldwide. 
+These standards are intended to keep a consistent level of technical quality and compatibility concerning the World Wide Web. 
+Developers who create web applications can have confidence in the tools they're using, as web applications using these standards have been vetted by experts. 
+An example of a W3C standard is web browsers. 
+Most use W3C standards, which enables them to interpret code such as Hypertext Markup Language (HTML) and Cascading Style Sheets (CSS).
+
