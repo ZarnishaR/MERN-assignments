@@ -1,0 +1,40 @@
+Question-1:
+ASCII character set vs UTF-8 character set vs UTF-16 character set
+ASCII, UTF-8, and UTF-16 are all character encoding schemes that map characters to binary code.
+ASCII is a 7-bit encoding scheme that can represent 128 characters, including uppercase and lowercase English letters, digits, and some special characters.
+UTF-8 is a variable-length encoding scheme that can represent all Unicode characters using one to four bytes. 
+     It is backward-compatible with ASCII, meaning that the first 128 characters of UTF-8 are identical to ASCII. 
+UTF-16 is another variable-length encoding scheme that uses two or four bytes to represent each character.
+     It can represent all Unicode characters, including those outside the Basic Multilingual Plane (BMP).
+
+In summary, ASCII is a simple encoding scheme that can only represent a limited set of characters, while UTF-8 and UTF-16 are more complex encoding 
+schemes that can represent all Unicode characters.
+UTF-8 is backward-compatible with ASCII, while UTF-16 can represent characters outside the BMP. 
+The choice of encoding scheme depends on the specific requirements of the application.
+
+Question-2:
+What is search engine optimization(SEO)?
+Search engine optimization is the science of improving a website to increase its visibility when people search for products or services.
+The more visibility a website has on search engines, the more likely it is that brand captures business.
+Using Google as an example, SERPs often feature ads at the top of the page. 
+These are positions that businesses are willing to pay for to ensure placement on that first page.
+Following ads are the regular search listings, which marketers and search engines refer to as organic search results. 
+The SEO process aims to increase a business's organic search results, driving organic search traffic to the site. 
+This enables data marketers to distinguish between traffic that comes to a website from other channels -- such as paid search, social media, referrals and direct -- and the organic search traffic.
+Organic search traffic is usually higher-quality traffic because users are actively searching for a specific topic, product or service for which a site might rank.
+If a user finds that site through the search engine, it can lead to better brand engagement.
+
+Question-3:
+What is the difference between Framework and API?
+Framework:
+A Framework is a collection of APIs designed to make building of applications simpler.
+Frameworks provide implementations for reusable components. 
+Good frameworks tend to be specialized in their application.
+
+API:
+An API (Application Programming Interface) is interface to some functionality which allows an application to access the available functionality.
+An API may be referred to as an Interface. API exist at many levels including system, library, framework, program, and application.
+APIs should be defined before the code implementing them is implemented.
+APIs should be stable, although portions of the API can be deprecated for various reasons.
+The more broadly used the API the more difficult it is to change it. Most if not all of the Java 1.0 API is still available, although many methods are have been deprecated.
+
