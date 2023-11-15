@@ -1,0 +1,117 @@
+Question-1:
+What are the different software tools used for prototyping?
+1. Figma:
+Figma is an all-in-one tool that makes collaboration and accessibility easy for UX designers, developers, and anyone else on a team with a browser-based, cloud-hosted platform.
+If you’ve worked with Sketch before, you’ll find that Figma has a similar feel that makes it easy to get started with.
+2. InVision Studio:
+InVision has a well-established reputation, and their dedication to rolling out new functionality and adding to their design platform makes them a favorite among many designers.
+3. Adobe XD:
+Adobe XD offers a vector-based system for putting together prototypes, including tools for creating interactions, transitions, and other types of dynamic functionality. 
+Because it’s vector based, scaling and resizing elements is no problem.
+4. Webflow:
+Webflow takes care of two jobs at once. While you’re designing and building a high-fidelity prototype, you’re creating a live website that’s complete with all of the HTML, CSS, and associated JavaScript.
+You don’t end up with just a mockup — you’ll have the real deal.
+5:Axure RP:
+Axure RP puts the power of wireframing and prototyping all in one package, helping companies improve their digital product design process. 
+It allows designers to create low to high resolution interactive prototypes of websites and apps, all without having to code.
+
+Question-2:
+What is the difference between scalar graphics and vector graphics?
+Scalar graphics and vector graphics are two types of digital images that differ in how they are created and stored.
+
+Scalar graphics are made up of pixels, which are tiny squares of color that combine to form an image. 
+The resolution of a scalar graphic is determined by the number of pixels it contains. When a scalar graphic is enlarged, the pixels become more visible, causing the image to appear blurry or pixelated. 
+Examples of scalar graphics include JPEG, GIF, and PNG files.
+
+Vector graphics, on the other hand, are created using mathematical equations that describe the image’s shape, color, and position.
+Because vector graphics are not made up of pixels, they can be scaled to any size without losing quality. 
+This makes them ideal for logos, illustrations, and other graphics that need to be resized frequently. Examples of vector graphics include SVG, EPS, and PDF files.
+
+Question-3:
+What is WHATWG?
+WHATWG is a Web Hypertext Application Technology Working Group. 
+It is a community of computer experts and general users with an interest in improving HTML through various standards and tests. 
+The WHATWG was founded in 2004 by individuals from the Mozilla base Foundation, Opera Software and Apple inc, and various leading Web browser vendors.
+This decision was made to existence by the W3C (World Wide Web Consortium) to abandon HTML in favor of XML (Extensible Markup Language).
+W3C is the main international standards body for the World Wide Web. Since WHATWG was established its primary aim was to advancement of HTML, therefore, it included various new features to it 
+for eg:- Web Storage, Web Sockets, APIs, etc. The WHATWG standards/requirements are regularly changed as per the feedbacks from Web site designers, programmers, and users. 
+New features that are added helps us in real-world implementations. 
+
+Question-4:
+Differnce between VML and SVG?
+VML (Vector Markup Language) and SVG (Scalable Vector Graphics) are both XML-based vector graphics formats that can be used to create and display vector images on the web.
+However, there are some differences between the two.
+VML was developed by Microsoft and was used primarily in Internet Explorer. 
+It is now considered a legacy format and is no longer supported by Microsoft. SVG, on the other hand, is an open standard that is supported by all modern web browsers.
+One of the main differences between VML and SVG is that VML is based on HTML, while SVG is a separate specification.
+Another difference is that VML uses a different coordinate system than SVG.
+VML is also less flexible than SVG when it comes to animation and interactivity.
+SVG has a more robust set of features and can be used to create complex animations and interactive graphics.
+
+Question-5:
+What is Silverlight?
+Silverlight is a browser plug-in, designed for building rich internet applications; applications that run in the browser like normal web applications,
+but which try to advance the user interface beyond where HTML can go. For example,
+Silverlight is a framework for building rich, browser-hosted applications that run on a variety of operating systems.
+It can also co-exist with HTML. Therefore, Silverlight can enhance an existing web application.
+Silverlight works its magic through a browser plug-in. When you surf to a web page that includes Silverlight content, this browser plug-in runs, 
+executes the code, and renders that content in a specifically designated region of the page.
+The important part is that the Silverlight plug-in provides a richer environment than the traditional blend of HTML and JavaScript that powers ordinary web pages.
+You can create Silverlight pages that play video, have hardware accelerated 3D graphics, and use vector animations.
+
+Question-6:
+What is accessibility?
+Accessibility is the practice of making your websites usable by as many people as possible. We traditionally think of this as being about people with disabilities,
+but the practice of making sites accessible also benefits other groups such as those using mobile devices, or those with slow network connections.
+Building accessible sites benefits everyone:
+Semantic HTML, which improves accessibility, also improves SEO, making your site more findable.
+Caring about accessibility demonstrates good ethics and morals, which improves your public image.
+Other good practices that improve accessibility also make your site more usable by other groups, such as mobile phone users or those on low network speed. 
+In fact, everyone can benefit from many such improvements.
+
+Question-7:
+What is WEb Crawler and how does it work?
+A web crawler, crawler or web spider, is a computer program that's used to search and automatically index website content and other information over the internet. 
+These programs, or bots, are most commonly used to create entries for a search engine index.
+Web crawlers systematically browse webpages to learn what each page on the website is about, so this information can be indexed, updated and retrieved when a user makes a search query. 
+Other websites use web crawling bots while updating their own web content.
+Search engines like Google or Bing apply a search algorithm to the data collected by web crawlers to display relevant information and websites in response to user searches.
+If an organization or website owner wants its website to rank in a search engine, it must first be indexed. 
+If webpages aren't crawled and indexed, the search engine can't find them organically.
+Web crawlers begin crawling a specific set of known pages, then follow hyperlinks from those pages to new pages. 
+Websites that don't wish to be crawled or found by search engines can use tools like the robots.txt file to request bots not index a website or only index portions of it.
+Performing site audits with a crawling tool can help website owners identify broken links, duplicate content and duplicate, missing or too long or short titles.
+
+Question-8:
+How does SEO work?
+Search engines use complex algorithms to determine which websites to show in their search results.
+These algorithms take into account a variety of factors, including the relevance of the website’s content to the search query, the website’s loading speed, and the website’s mobile-friendliness.
+SEO can be divided into two main categories: on-page optimization and off-page optimization. 
+On-page optimization refers to the changes made to a website’s content and structure, while off-page optimization refers to the actions taken outside of the website to improve its ranking, such as link building and social media marketing.
+SEO is a complex and ever-changing field, and there are many factors that can affect a website’s ranking in search results. 
+However, by following best practices and staying up-to-date with the latest trends and techniques, website owners can improve their chances of ranking higher in search results and driving more traffic to their site.
+
+Question-9:
+What is site audit?
+website audit is a thorough examination of a website to determine its smooth functioning, full-proof security, and seamless end-user experience.
+It helps –
+Evaluate the website on parameters that determine its visibility in Google’s search rankings.
+Provide an in-depth analysis of your website.
+Unravel issues hampering the website’s performance.
+Suggest the areas in your website that need improvement.
+Increase website traffic and user engagement.
+
+Question-10:
+What is the difference between API and RESt API?
+API stands for Application Programming Interface. It is a set of protocols, routines, and tools for building software applications.
+APIs define how software components should interact and are used to facilitate communication between different systems.
+
+REST API (Representational State Transfer API) is a type of API that follows the REST architectural style. 
+REST is a set of constraints that are used to create web services.
+RESTful APIs use HTTP requests to GET, PUT, POST, and DELETE data. 
+They are designed to be stateless, meaning that each request contains all the information necessary to complete it.
+RESTful APIs are widely used because they are simple, lightweight, and scalable.
+
+The main difference between API and REST API is that API is a general term that refers to any kind of interface that enables communication between
+different systems, while REST API is a specific type of API that adheres to the constraints of the REST architectural style. 
+RESTful APIs use HTTP requests to interact with data, while traditional APIs can use a variety of protocols
